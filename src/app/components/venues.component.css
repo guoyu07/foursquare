@@ -1,0 +1,59 @@
+mat-slider {
+  width: 300px;
+}
+
+.container-fluid {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+}
+
+.slider-icon {
+    text-align: center;
+    height: 150px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.venue-container {
+    color: #ffffff;
+}
+
+.venue-container .venue {
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #2cb5e8;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-height: 200px;
+}
+
+.venue-container .venue .venue-header {
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 1px solid white;
+}
+
+.venue-container .venue .venue-photo-container {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.venue-container .venue .venue-photo-container .venue-photo {
+    border: solid 2px white;
+}
+
+.venue-container .venue .venue-status {
+    margin: 5px;
+}
+
+.venue-container .venue .venue-address {
+    font-size: 10px;
+    padding-left: 5px;
+    margin-top: 5px;
+}
